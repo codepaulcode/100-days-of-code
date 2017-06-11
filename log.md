@@ -17,21 +17,14 @@ Progress through first freecode camp section HTML & CSS.
 
 **Today's Progress**:
 
-Progressed through responsive design & jQuery on free code camp.
-Decided on who to dedicate my tribute page too. 
+**Thoughts** 
 
-**Thoughts** Biggest issue is remembering the correct syntax and missing letters in words. 
-
-**Link(s) to work** https://www.freecodecamp.com/codepaulcode 
+**Link(s) to work**
 
 ###Day 3: September 4, Sunday 
 
 **Today's Progress**:
 
-Completed first freecodecamp project. Tribute page. 
-Started breaking down the next project down into smaller elements (Personal portfolio page). 
-Identified some documentation to start digging into tomorrow.
+**Thoughts** 
 
-**Thoughts** Next project seems to go beyond topics covered by freecodecamp so far. So I suspect Plenty of searching, asking, documentation, and note making ahead. 
-
-**Link(s) to work** http://codepen.io/codepaulcode/pen/amzNxk 
+**Link(s) to work**
